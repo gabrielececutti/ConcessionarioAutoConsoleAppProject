@@ -1,0 +1,20 @@
+C:\Users\gabri\iCloudDrive\Desktop\C# .NET\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\gabri\iCloudDrive\Desktop\C# .NET\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\iCloudDrive\Desktop\C# .NET\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gabri\iCloudDrive\Desktop\C# .NET\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.AssemblyInfo.cs
+C:\Users\gabri\iCloudDrive\Desktop\C# .NET\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\ConcessionarioAutoConsoleApp\bin\Debug\net7.0\ConcessionarioAutoConsoleApp.exe
+C:\Users\gabri\ConcessionarioAutoConsoleApp\bin\Debug\net7.0\ConcessionarioAutoConsoleApp.deps.json
+C:\Users\gabri\ConcessionarioAutoConsoleApp\bin\Debug\net7.0\ConcessionarioAutoConsoleApp.runtimeconfig.json
+C:\Users\gabri\ConcessionarioAutoConsoleApp\bin\Debug\net7.0\ConcessionarioAutoConsoleApp.dll
+C:\Users\gabri\ConcessionarioAutoConsoleApp\bin\Debug\net7.0\ConcessionarioAutoConsoleApp.pdb
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.AssemblyInfo.cs
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.dll
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\refint\ConcessionarioAutoConsoleApp.dll
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.pdb
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ConcessionarioAutoConsoleApp.genruntimeconfig.cache
+C:\Users\gabri\ConcessionarioAutoConsoleApp\obj\Debug\net7.0\ref\ConcessionarioAutoConsoleApp.dll
