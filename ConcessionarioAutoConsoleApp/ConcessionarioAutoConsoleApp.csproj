@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConcessionarioAutoConsoleApp.Configurazione.Prova</StartupObject>
+    <StartupObject>ConcessionarioAutoConsoleApp.Configurazione.Principale</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
